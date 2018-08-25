@@ -5,11 +5,19 @@ html, body{
     font-size: 20px;
     color: white;
 <<<<<<< HEAD
+<<<<<<< HEAD
      background-color: #D64F4F;
 }
 
 header{
 	background-color: #0099cc;
+=======
+     background-color: #DA4A6E;
+}
+
+header{
+	background-color: #4AB6DA;
+>>>>>>> parent of 5aa4c7f... Changed colors again
 =======
      background-color: #DA4A6E;
 }
@@ -41,7 +49,11 @@ header img{
     margin: 0 auto;
     padding: 0 20px;
 <<<<<<< HEAD
+<<<<<<< HEAD
     background-color: #D64F4F;
+=======
+    background-color: #DA4A6E;
+>>>>>>> parent of 5aa4c7f... Changed colors again
 =======
     background-color: #DA4A6E;
 >>>>>>> parent of 5aa4c7f... Changed colors again
@@ -50,7 +62,11 @@ header img{
 a{
 	    color: white;
 <<<<<<< HEAD
+<<<<<<< HEAD
     background-color: #7385EB;
+=======
+    background-color: #6E4ADA;
+>>>>>>> parent of 5aa4c7f... Changed colors again
 =======
     background-color: #6E4ADA;
 >>>>>>> parent of 5aa4c7f... Changed colors again
@@ -60,7 +76,11 @@ footer{
 	margin-top: 20px;
 	padding: 40px 20px;
 <<<<<<< HEAD
+<<<<<<< HEAD
 	background-color: #D64F4F;
+=======
+	background-color: #DA4A6E;
+>>>>>>> parent of 5aa4c7f... Changed colors again
 =======
 	background-color: #DA4A6E;
 >>>>>>> parent of 5aa4c7f... Changed colors again
