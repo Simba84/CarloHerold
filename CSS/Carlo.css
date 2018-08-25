@@ -4,11 +4,11 @@ html, body{
     text-align: center;
     font-size: 20px;
     color: white;
-     background-color: #DE5858;
+     background-color: #6F86CB;
 }
 
 header{
-	background-color: #3CB6F4;
+	background-color: #6FB4CB;
 	padding: 40px;
 	text-align: center;
 }
@@ -32,7 +32,7 @@ header img{
     max-width: 600px;
     margin: 0 auto;
     padding: 0 20px;
-    background-color: #DE5858;
+    background-color: #6F86CB;
 }
 
 a{
@@ -43,7 +43,7 @@ a{
 footer{
 	margin-top: 20px;
 	padding: 40px 20px;
-	background-color: #DE5858;
+	background-color: #6F86CB;
 }
 ul{
 	text-align: center;
@@ -54,12 +54,12 @@ footer ul li{
 
 
 }
-li{ background-color: #EA8282;
+li{ background-color: #866FCB;
     margin: 5px 0;
     padding: 5px;
     border-radius: 10px;
 list-style: none;}
-    p { background-color: #EA8282;
+    p { background-color: #866FCB;
     margin: 5px 0;
     padding: 5px;
     border-radius: 10px;}
