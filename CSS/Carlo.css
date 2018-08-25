@@ -4,11 +4,11 @@ html, body{
     text-align: center;
     font-size: 20px;
     color: white;
-     background-color: #DA4A6E;
+     background-color: #6F86CB;
 }
 
 header{
-	background-color: #4AB6DA;
+	background-color: #6FB4CB;
 	padding: 40px;
 	text-align: center;
 }
@@ -32,18 +32,18 @@ header img{
     max-width: 600px;
     margin: 0 auto;
     padding: 0 20px;
-    background-color: #DA4A6E;
+    background-color: #6F86CB;
 }
 
 a{
 	    color: white;
-    background-color: #6E4ADA;
+    background-color: #B46FCB;
     text-decoration: none;
 }
 footer{
 	margin-top: 20px;
 	padding: 40px 20px;
-	background-color: #DA4A6E;
+	background-color: #6F86CB;
 }
 ul{
 	text-align: center;
@@ -54,12 +54,12 @@ footer ul li{
 
 
 }
-li{ background-color: #F27979;
+li{ background-color: #866FCB;
     margin: 5px 0;
     padding: 5px;
     border-radius: 10px;
 list-style: none;}
-    p { background-color: #F27979;
+    p { background-color: #866FCB;
     margin: 5px 0;
     padding: 5px;
     border-radius: 10px;}
